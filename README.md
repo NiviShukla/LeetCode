@@ -1,2 +1,3 @@
 # LeetCode
 Collection of LeetCode questions to ace the coding interview!
+Easy, Medium and Hard.
