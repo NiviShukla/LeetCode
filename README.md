@@ -38,5 +38,3 @@ Contributions to this repository are welcome and appreciated. If you want to con
 7. Commit and push your changes to your forked repository.
 8. Submit a pull request to the original repository, explaining the purpose and details of your contribution.
 
-## License
-The content of this repository is licensed under the [MIT License](LICENSE). By contributing to this repository, you agree to license your contribution under the same license.
