@@ -18,7 +18,7 @@ To help you prepare for coding interviews, this repository provides a collection
 ## Usage
 You can use this repository in the following ways:
 
-1. **Explore the Questions**: Browse through the folders corresponding to the difficulty levels (Easy, Medium, Hard) to find a list of LeetCode questions. Each question is placed in a separate folder, named after the problem's title or number. The folders contain the problem statement and a solution template to get you started.
+1. **Explore the Questions**: Browse through the folders to find a list of LeetCode questions. Each question is placed in a separate folder, named after the problem's title with the question number. The folders contain the problem statement and a solution template to get you started.
 
 2. **Solve the Problems**: Attempt to solve the problems on your own before referring to the solutions. The problem statements provide the necessary context and constraints, while the solution templates offer a starting point for writing your code.
 
