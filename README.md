@@ -18,13 +18,12 @@ To help you prepare for coding interviews, this repository provides a collection
 ## Usage
 You can use this repository in the following ways:
 
-1. **Explore the Questions**: Browse through the folders to find a list of LeetCode questions. Each question is placed in a separate folder, named after the problem's title with the question number. The folders contain the problem statement and a solution template to get you started.
+1. **Explore the Questions**: Browse through the folders to find a list of LeetCode questions. Each question is placed in a separate folder, named after the problem's title with the question number. The folders contain the solution template to get you started as  
+``` main.cpp ```
 
-2. **Solve the Problems**: Attempt to solve the problems on your own before referring to the solutions. The problem statements provide the necessary context and constraints, while the solution templates offer a starting point for writing your code.
+2. **Improve Your Solutions**: After solving a problem, you can compare your solution with the provided solutions in the repository. This allows you to learn different approaches, optimize your code, and understand how to solve problems efficiently.
 
-3. **Improve Your Solutions**: After solving a problem, you can compare your solution with the provided solutions in the repository. This allows you to learn different approaches, optimize your code, and understand how to solve problems efficiently.
-
-4. **Contribute**: If you have solved a LeetCode problem that is not present in the repository, you can contribute by adding it. Please follow the contribution guidelines mentioned below.
+3. **Contribute**: If you have solved a LeetCode problem that is not present in the repository, you can contribute by adding it. Please follow the contribution guidelines mentioned below.
 
 ## Contributing
 Contributions to this repository are welcome and appreciated. If you want to contribute to the "Collection of LeetCode Questions to Ace the Coding Interview!", please follow these guidelines:
