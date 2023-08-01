@@ -20,6 +20,7 @@ public:
         and 3 is subtracted from both this time colSum[0] = 0
         so j++
         Now we check for rowSum[1] and colSum[1] and so on
+        Also we do not need to add zeros in the ans as it is initially initialized with all 0
         */
         int row = rowSum.size();
         int col = colSum.size();
